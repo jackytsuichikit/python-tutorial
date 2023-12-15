@@ -3,6 +3,11 @@ a = 1
 a += 4
 print(a)
 
+
+b = 1
+c = a + b
+
+c += 1
 # more info 
 
 
